@@ -57,7 +57,7 @@ const Hotel = () => {
       <Navbar />
       <Header type="list" />
       <div className="hotelContainer">
-        \
+        
         {open && (
           <div className="slider">
             <FontAwesomeIcon
